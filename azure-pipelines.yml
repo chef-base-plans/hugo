@@ -1,6 +1,5 @@
 # Stub pipeline file which is static across all 
 # chef-base-plans repositories.
-# test commit
 
 name: 0.0$(Rev:.r)
 
